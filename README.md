@@ -1,8 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=13ad02&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+Willyan+Tomaz;I'm+19+years+old;I'm+from+Brazil;Future+software+engineer;Full+Stack+Intern;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6642EE&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+Willyan+Tomaz;I'm+19+years+old;I'm+from+Brazil;Future+software+engineer;Full+Stack+Intern;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 - 👨🏻‍💻 Currently I am working as an intern with mobile applications and maintenance and integration of application systems with Java Spring Boot.
 - 👨🏻‍🎓 I’m currently learning flutter, pl/sql and java Spring Boot.
+- 🎮🏋️ My hobby is playing football, beach tennis, video games with friends and during the week I go to the gym.
+
+
 
   ##
 <div> 

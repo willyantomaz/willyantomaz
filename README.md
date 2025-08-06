@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I'm a final year Software Engineering student.
 - 👨🏻‍💻 I have over 1 year of hands-on experience in back-end development with Java and Spring Boot, and now I work with NestJS and Angular.
-- 👨🏻‍💻 I currently work as a Full-Stack Developer at Portal do Vendedor
+- 👨🏻‍💻 I currently work as a Full-Stack Developer at Portal do Seller
 - 👨🏻‍🎓 I'm always looking to learn new technologies and evolve as a developer.
 
 

@@ -6,11 +6,6 @@
 - 🛠️ Domínio em infraestrutura com **Docker**, otimização de performance com **Redis** e bancos de dados **Oracle SQL** e **MongoDB**[cite: 18, 20, 23, 32].
 - 👨🏻‍🎓 Formado em **Engenharia de Software** pela UniCesumar.
 
-## 📊 My Stats
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willyantomaz&show_icons=true&theme=gotham&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyantomaz&layout=compact&theme=gotham"/>
-</div>
 
 ## 🛠️ Technologies & Tools
 <div style="display: inline_block">

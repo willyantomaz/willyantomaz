@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6642EE&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+Willyan+Tomaz;Software+Engineer;Tech+Lead+at+Portal+do+Seller;Back-end+Specialist;)](https://git.io/typing-svg)
 
 - 👨🏻‍💻 **Tech Lead** no Portal do Seller, liderando o desenvolvimento de soluções escaláveis para e-commerce.
-- 🚀 Especialista em **Backend Development** com foco em APIs robustas utilizando **NestJS** e **Spring Boot**[cite: 22, 31, 43].
+- 🚀 Especialista em **Backend Development** com foco em APIs robustas utilizando **NestJS** e **Spring Boot**.
 - 💳 Experiência em integração de **gateways de pagamento**, gestão de comissões e fluxos financeiros.
-- 🛠️ Domínio em infraestrutura com **Docker**, otimização de performance com **Redis** e bancos de dados **Oracle SQL** e **MongoDB**[cite: 18, 20, 23, 32].
+- 🛠️ Domínio em infraestrutura com **Docker**, otimização de performance com **Redis** e bancos de dados **Oracle SQL** e **MongoDB**].
 - 👨🏻‍🎓 Formado em **Engenharia de Software** pela UniCesumar.
 
 
@@ -24,7 +24,6 @@
 ## 📫 Connect with me
 <a href="https://www.linkedin.com/in/willyantomaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
-## 🐍 Snake Game
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
